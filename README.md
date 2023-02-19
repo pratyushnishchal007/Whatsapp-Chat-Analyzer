@@ -1,2 +1,2 @@
 # Whatsapp-Chat-Analyzer
-demo link: https://whatsapchatanalyzer.herokuapp.com/
+demo link: https://pratyushnishchal007-whatsapp-chat-analyzer-app-6wz23q.streamlit.app/
